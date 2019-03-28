@@ -4,3 +4,4 @@ git is amazing!
 Git has a mutable index called stage.
 Git is beautiful.
 Git tracks changes of files.
+Git made me Amazing!
